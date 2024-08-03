@@ -10,7 +10,7 @@
     <properties>
 	    <kotlin.version>1.9.24</kotlin.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <antlr.version>4.13.1</antlr.version>
+        <antlr.version>4.13.2</antlr.version>
         <spring-boot.version>3.3.1</spring-boot.version>
         <junit.version>4.13.2</junit.version>
 		<spring-data-jpa.version>3.3.1</spring-data-jpa.version>
